@@ -53,6 +53,15 @@
     }
   }
 
+  function onInput(event) {
+    var target = event.target;
+    if (target instanceof Element &&
+        target.matches('input[name="email"], input[name="phone"]') &&
+        target.closest('.ladi-form') && isBlockedForm(target)) {
+      event.stopImmediatePropagation();
+    }
+  }
+
   function onClick(event) {
     if (!(event.target instanceof Element)) return;
     var button = event.target.closest('.ladi-button, button, input');
@@ -113,6 +122,7 @@
   window.addEventListener('submit', onSubmit, true);
   window.addEventListener('click', onClick, true);
   window.addEventListener('focusout', onFocusOut, true);
+  window.addEventListener('input', onInput, true);
   HTMLFormElement.prototype.submit = wrappedSubmit;
 
   window.LadiPurchaseBlock = {
