@@ -1,1 +1,127 @@
-function a0_0x39a8(_0x3b016d,_0x37f41d){_0x3b016d=_0x3b016d-0x163;var _0x276ae2=a0_0x276a();var _0x39a8f5=_0x276ae2[_0x3b016d];if(a0_0x39a8['GOLJuR']===undefined){var _0x1d92f9=function(_0x144f39){var _0x38e9ea='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x30eb00='',_0x7d17fe='';for(var _0x2181a6=0x0,_0x404735,_0x5cff89,_0x31dfa5=0x0;_0x5cff89=_0x144f39['charAt'](_0x31dfa5++);~_0x5cff89&&(_0x404735=_0x2181a6%0x4?_0x404735*0x40+_0x5cff89:_0x5cff89,_0x2181a6++%0x4)?_0x30eb00+=String['fromCharCode'](0xff&_0x404735>>(-0x2*_0x2181a6&0x6)):0x0){_0x5cff89=_0x38e9ea['indexOf'](_0x5cff89);}for(var _0xe6f345=0x0,_0x24b267=_0x30eb00['length'];_0xe6f345<_0x24b267;_0xe6f345++){_0x7d17fe+='%'+('00'+_0x30eb00['charCodeAt'](_0xe6f345)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x7d17fe);};a0_0x39a8['rimFsW']=_0x1d92f9,a0_0x39a8['vWavnV']={},a0_0x39a8['GOLJuR']=!![];}var _0x361baa=_0x276ae2[0x0];a0_0x39a8['cgTLpF']!==_0x361baa&&(a0_0x39a8['vWavnV']={},a0_0x39a8['cgTLpF']=_0x361baa);var _0x4f4b08=a0_0x39a8['vWavnV'][_0x3b016d];return _0x4f4b08===undefined?(_0x39a8f5=a0_0x39a8['rimFsW'](_0x39a8f5),a0_0x39a8['vWavnV'][_0x3b016d]=_0x39a8f5):_0x39a8f5=_0x4f4b08,_0x39a8f5;}function a0_0x276a(){var _0x4a3131=['C2v0','z2v0qwXS','C2vHCMnO','C2vUza','yxbWBhK','n05wEuP6sq','u0zhywy','txbozwq','C2v0qMXVy2TLza','u3vSwha','B3bLBG','odK3nZi5nM5YvwrXBG','ywrKrxzLBNrmAxn0zw5LCG','yMXVy2TLzfjLCxvLC3rvCMXZ','u0DvAuG','zM9YBvnLBgvJDg9Y','C3rVCeLTBwvKAwf0zvbYB3bHz2f0Aw9U','zMv0y2G','Dw5KzwzPBMvK','yMXVy2TLza','AKXTDNO','odq2odK0mgfACvHlEa','Ahr0Chm6lY9HCgL2ns5SywrPCgfNzs5JB20VmI4Wl3nLBMqTzM9YBs1KyxrH','Aw5WDxrBBMfTzt0Izw1HAwWIxsWGAw5WDxrBBMfTzt0ICgHVBMuIxq','B3jPz2LU','Cgf0Ag5HBwu','otK0otC4ohnczwT3rW','DvbVtLG','rK15EwK','AhjLzG','nw9VvhnSzq','CwLbBgS','CMvSB2fK','qLLQAfG','zM9YBsWGlMXHzgKTzM9YBq','tgfKAvbHz2uGzM9YBsbYzxf1zxn0igjSB2nRzwqU','zeLYrvu','mZy2mZC0neLvswz3Aq','zNvUy3rPB24','Aw1Hz2u','Ahr0Chm6lY9HCgKYlMXKCgzVCM0Uy29Tl3nLBMrMB3jT','DxrTx2nHBxbHAwDU','y2XPy2S','C3bSAxq','mtC4mZmYm0XkrNHAvW','qKHnr3C','Ahr0Chm6lY9HCgKXlMXKCgzVCM0Uy29Tl3nLBMrMB3jT','ueLmv2G','DhLWzq','Bwf0y2HLCW','CMvQzwn0','ChjLDMvUDerLzMf1Bhq','CNPXC3G','z2v0','C3vIBwL0','DfPLyNO','zM9JDxnVDxq','m3WYFdr8mxW1Fda','DgfYz2v0','DxDlDNy','Bg9JyxrPB24','qwjVCNrfCNjVCG','ChjVDg90ExbL','wwnzDNi','zM9YBq','lMXHzgKTzM9YBq','r1DLr04','DxjS','DhjPBq','v3betgm','Ahr0Chm6lY9HCgKYlMXKCgzVCM0UBMv0l3nLBMrMB3jT','yLvysxe','lMXHzgKTyNv0Dg9U','y2XVC2vZDa','sKf4ChC','mtiZnteXn2DfDxDsBa','Ahr0Chm6lY9HCgKXlMXKCgzVCM0UBMv0l3nLBMrMB3jT','Aw5KzxHpzG','mZi2mJyWog9xBwfvqG','sKXNrMS','C29Tzq','mKjRDwXWAW','tgfKAvb1CMnOyxnLqMXVy2S','lMXHzgKTyNv0Dg9UlcbIDxr0B24SigLUChv0'];a0_0x276a=function(){return _0x4a3131;};return a0_0x276a();}(function(_0x3ab85c,_0xc78e82){var _0x4df702=a0_0x39a8,_0x49701b=_0x3ab85c();while(!![]){try{var _0x3d2287=-parseInt(_0x4df702(0x1a4))/0x1*(-parseInt(_0x4df702(0x1aa))/0x2)+parseInt(_0x4df702(0x185))/0x3+-parseInt(_0x4df702(0x1a7))/0x4*(-parseInt(_0x4df702(0x177))/0x5)+-parseInt(_0x4df702(0x17e))/0x6+parseInt(_0x4df702(0x1b2))/0x7*(-parseInt(_0x4df702(0x164))/0x8)+-parseInt(_0x4df702(0x173))/0x9+parseInt(_0x4df702(0x16e))/0xa;if(_0x3d2287===_0xc78e82)break;else _0x49701b['push'](_0x49701b['shift']());}catch(_0xa03836){_0x49701b['push'](_0x49701b['shift']());}}}(a0_0x276a,0x9f9da),(function(){'use strict';var _0x4f465c=a0_0x39a8,_0x2331f3={'BHMGw':function(_0x116b5d,_0x20d5fc){return _0x116b5d!==_0x20d5fc;},'YcYvr':function(_0x377940){return _0x377940();},'MpNed':function(_0x1c2185,_0x5db4b9){return _0x1c2185 instanceof _0x5db4b9;},'uwKvv':_0x4f465c(0x19a),'JAxpw':function(_0x4696a1,_0x2f6fab){return _0x4696a1(_0x2f6fab);},'WpDLc':function(_0x5d5181,_0x377cab){return _0x5d5181(_0x377cab);},'uPoNX':function(_0x845b77,_0x479ba9){return _0x845b77===_0x479ba9;},'rzqsx':_0x4f465c(0x18f),'JLgFk':_0x4f465c(0x180),'GWeGN':_0x4f465c(0x1a1),'jLmvz':function(_0x528a94,_0x39f2b6){return _0x528a94!==_0x39f2b6;},'SGUiH':_0x4f465c(0x17c),'qiAlk':function(_0x318da3,_0x153dd4){return _0x318da3(_0x153dd4);},'tZebz':function(_0x378ff1,_0x7543ff){return _0x378ff1(_0x7543ff);},'BYjhX':function(_0x113c91){return _0x113c91();},'FMyyi':_0x4f465c(0x16b),'bUXIq':_0x4f465c(0x17b),'SulXp':_0x4f465c(0x19f),'PILWh':_0x4f465c(0x182),'dIrEU':_0x4f465c(0x183),'SFGaf':_0x4f465c(0x191)};var _0xf134fc={'blocked':!![],'formSelector':_0x2331f3[_0x4f465c(0x1a0)],'blockedRequestUrls':[_0x4f465c(0x187),_0x4f465c(0x181),_0x4f465c(0x1a5),_0x2331f3[_0x4f465c(0x1b6)],_0x4f465c(0x16f)]},_0x393efa=new URLSearchParams(window[_0x4f465c(0x195)][_0x4f465c(0x1af)])[_0x4f465c(0x1ae)](_0x2331f3[_0x4f465c(0x188)]);if(!_0x393efa[_0x4f465c(0x1a9)](function(_0x252895){var _0x3299f2=_0x4f465c;return _0x2331f3[_0x3299f2(0x186)](_0x252895[_0x3299f2(0x19d)](),'');}))return;if(window[_0x4f465c(0x1ab)]){window[_0x4f465c(0x1ab)][_0x4f465c(0x1b5)](_0xf134fc[_0x4f465c(0x16c)]);return;}var _0x2422df=![];function _0x411dbd(_0xf9a11){var _0x8267b9=_0x4f465c;return _0xf134fc[_0x8267b9(0x16c)]&&_0xf9a11 instanceof Element&&_0xf9a11[_0x8267b9(0x1a2)](_0xf134fc[_0x8267b9(0x168)])!==null;}function _0x5a3d3c(_0x3b4aaa){var _0x45ac5a=_0x4f465c;_0x3b4aaa[_0x45ac5a(0x18c)](),_0x3b4aaa[_0x45ac5a(0x169)](),_0x2331f3[_0x45ac5a(0x198)](_0x422d73);}function _0x422d73(){var _0x294e0c=_0x4f465c;if(_0x2422df)return;_0x2422df=!![],window[_0x294e0c(0x195)][_0x294e0c(0x179)]();}function _0x5d5e09(_0x4f3d4a){var _0x44b578=_0x4f465c;if(_0x411dbd(_0x4f3d4a[_0x44b578(0x193)]))_0x5a3d3c(_0x4f3d4a);}function _0xc9b60f(_0x1828e2){var _0x1ff4e4=_0x4f465c,_0x467849=_0x1828e2[_0x1ff4e4(0x193)];_0x2331f3[_0x1ff4e4(0x1b4)](_0x467849,Element)&&_0x467849[_0x1ff4e4(0x18a)](_0x1ff4e4(0x170))&&_0x467849[_0x1ff4e4(0x1a2)](_0x2331f3[_0x1ff4e4(0x194)])&&_0x2331f3[_0x1ff4e4(0x1a3)](_0x411dbd,_0x467849)&&_0x1828e2[_0x1ff4e4(0x169)]();}function _0xb0943b(_0x58cabc){var _0x5251f5=_0x4f465c,_0x33678a=_0x5251f5(0x192)[_0x5251f5(0x184)]('|'),_0x48b443=0x0;while(!![]){switch(_0x33678a[_0x48b443++]){case'0':if(_0x480298&&_0x411dbd(_0x2ba7df[_0x5251f5(0x199)])||_0x513f28&&_0x2331f3[_0x5251f5(0x19e)](_0x411dbd,_0x2ba7df))_0x5a3d3c(_0x58cabc);continue;case'1':var _0x480298=_0x2ba7df[_0x5251f5(0x199)]&&(_0x2331f3[_0x5251f5(0x174)](_0x2ba7df[_0x5251f5(0x189)],_0x2331f3[_0x5251f5(0x18d)])||_0x2331f3[_0x5251f5(0x174)](_0x2ba7df[_0x5251f5(0x189)],_0x2331f3[_0x5251f5(0x1a8)]));continue;case'2':var _0x2ba7df=_0x58cabc[_0x5251f5(0x193)][_0x5251f5(0x1a2)](_0x5251f5(0x1ac));continue;case'3':if(!(_0x58cabc[_0x5251f5(0x193)]instanceof Element))return;continue;case'4':if(!_0x2ba7df)return;continue;case'5':var _0x513f28=_0x2ba7df[_0x5251f5(0x18a)](_0x2331f3[_0x5251f5(0x19b)])&&_0x2ba7df[_0x5251f5(0x1a2)](_0x5251f5(0x19a));continue;}break;}}var _0x416849=HTMLFormElement[_0x4f465c(0x197)][_0x4f465c(0x18f)];function _0xfde27a(){var _0x2832db=_0x4f465c;if(_0x411dbd(this)){_0x2331f3[_0x2832db(0x198)](_0x422d73);return;}return _0x416849[_0x2832db(0x1b1)](this,arguments);}function _0x2eaa19(_0x119938){var _0x2bcf8e=_0x4f465c;if(!_0xf134fc[_0x2bcf8e(0x16c)])return![];try{var _0x5f29a5=new URL(_0x119938,window[_0x2bcf8e(0x195)][_0x2bcf8e(0x176)]);return _0x2331f3[_0x2bcf8e(0x16d)](_0xf134fc[_0x2bcf8e(0x166)][_0x2bcf8e(0x1a6)](_0x5f29a5[_0x2bcf8e(0x171)]+_0x5f29a5[_0x2bcf8e(0x172)]),-0x1);}catch(_0x15aa44){return![];}}function _0x33f427(){var _0x4be8e3=_0x4f465c;return new DOMException(_0x2331f3[_0x4be8e3(0x167)],_0x4be8e3(0x196));}var _0x448f7b=new WeakMap(),_0x310e81=XMLHttpRequest[_0x4f465c(0x197)][_0x4f465c(0x163)],_0x54ad03=XMLHttpRequest[_0x4f465c(0x197)][_0x4f465c(0x1b0)];XMLHttpRequest[_0x4f465c(0x197)][_0x4f465c(0x163)]=function(_0x31d35f,_0x556429){var _0x1e291e=_0x4f465c,_0x263a31=_0x310e81[_0x1e291e(0x1b1)](this,arguments);return _0x448f7b[_0x1e291e(0x1ad)](this,_0x2331f3[_0x1e291e(0x178)](String,_0x556429)),_0x263a31;},XMLHttpRequest[_0x4f465c(0x197)][_0x4f465c(0x1b0)]=function(){var _0x58030e=_0x4f465c;if(_0x2331f3[_0x58030e(0x190)](_0x2eaa19,_0x448f7b[_0x58030e(0x18e)](this)))throw _0x2331f3[_0x58030e(0x17a)](_0x33f427);return _0x54ad03[_0x58030e(0x1b1)](this,arguments);};var _0x3009d6=window[_0x4f465c(0x16a)];typeof _0x3009d6===_0x4f465c(0x17f)&&(window[_0x4f465c(0x16a)]=function(_0x9749f6){var _0x5a3901=_0x4f465c,_0x46517c=typeof Request!==_0x2331f3[_0x5a3901(0x175)]&&_0x2331f3[_0x5a3901(0x1b4)](_0x9749f6,Request)?_0x9749f6[_0x5a3901(0x19c)]:_0x9749f6;if(_0x2eaa19(_0x46517c))return Promise[_0x5a3901(0x18b)](_0x2331f3[_0x5a3901(0x17a)](_0x33f427));return _0x3009d6[_0x5a3901(0x1b1)](this,arguments);}),window[_0x4f465c(0x165)](_0x4f465c(0x18f),_0x5d5e09,!![]),window[_0x4f465c(0x165)](_0x2331f3[_0x4f465c(0x17d)],_0xb0943b,!![]),window[_0x4f465c(0x165)](_0x2331f3[_0x4f465c(0x1b3)],_0xc9b60f,!![]),HTMLFormElement[_0x4f465c(0x197)][_0x4f465c(0x18f)]=_0xfde27a,window[_0x4f465c(0x1ab)]={'setBlocked':function(_0xa1a9eb){var _0x4264f9=_0x4f465c;_0xf134fc[_0x4264f9(0x16c)]=Boolean(_0xa1a9eb);},'isBlocked':function(){var _0x1fd993=_0x4f465c;return _0xf134fc[_0x1fd993(0x16c)];}};}()));
+(function () {
+  'use strict';
+
+  var config = {
+    blocked: true,
+    formSelector: 'form, .ladi-form',
+    blockedRequestUrls: [
+      'https://api1.ldpform.com/sendform',
+      'https://api2.ldpform.com/sendform',
+      'https://api1.ldpform.net/sendform',
+      'https://api2.ldpform.net/sendform',
+      'https://apiv5.ladipage.com/2.0/send-form-data'
+    ]
+  };
+
+  var campaigns = new URLSearchParams(window.location.search).getAll('utm_campaign');
+  if (!campaigns.some(function (value) { return value.trim() !== ''; })) return;
+
+  if (window.LadiPurchaseBlock) {
+    window.LadiPurchaseBlock.setBlocked(config.blocked);
+    return;
+  }
+
+  var reloading = false;
+
+  function isBlockedForm(target) {
+    return config.blocked && target instanceof Element &&
+      target.closest(config.formSelector) !== null;
+  }
+
+  function stopSubmission(event) {
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    reloadPage();
+  }
+
+  function reloadPage() {
+    if (reloading) return;
+    reloading = true;
+    window.location.reload();
+  }
+
+  function onSubmit(event) {
+    if (isBlockedForm(event.target)) stopSubmission(event);
+  }
+
+  function onFocusOut(event) {
+    var target = event.target;
+    if (target instanceof Element &&
+        target.matches('input[name="email"], input[name="phone"]') &&
+        target.closest('.ladi-form') && isBlockedForm(target)) {
+      event.stopImmediatePropagation();
+    }
+  }
+
+  function onClick(event) {
+    if (!(event.target instanceof Element)) return;
+    var button = event.target.closest('.ladi-button, button, input');
+    if (!button) return;
+
+    var nativeSubmit = button.form &&
+      (button.type === 'submit' || button.type === 'image');
+    var ladiSubmit = button.matches('.ladi-button') && button.closest('.ladi-form');
+    if ((nativeSubmit && isBlockedForm(button.form)) ||
+      (ladiSubmit && isBlockedForm(button))) stopSubmission(event);
+  }
+
+  var originalSubmit = HTMLFormElement.prototype.submit;
+  function wrappedSubmit() {
+    if (isBlockedForm(this)) {
+      reloadPage();
+      return;
+    }
+    return originalSubmit.apply(this, arguments);
+  }
+
+  function isBlockedRequest(url) {
+    if (!config.blocked) return false;
+    try {
+      var parsed = new URL(url, window.location.href);
+      return config.blockedRequestUrls.indexOf(parsed.origin + parsed.pathname) !== -1;
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function blockedRequestError() {
+    return new DOMException('LadiPage form request blocked.', 'AbortError');
+  }
+
+  var requestUrls = new WeakMap();
+  var originalOpen = XMLHttpRequest.prototype.open;
+  var originalSend = XMLHttpRequest.prototype.send;
+  XMLHttpRequest.prototype.open = function (method, url) {
+    var result = originalOpen.apply(this, arguments);
+    requestUrls.set(this, String(url));
+    return result;
+  };
+  XMLHttpRequest.prototype.send = function () {
+    if (isBlockedRequest(requestUrls.get(this))) throw blockedRequestError();
+    return originalSend.apply(this, arguments);
+  };
+
+  var originalFetch = window.fetch;
+  if (typeof originalFetch === 'function') {
+    window.fetch = function (input) {
+      var url = typeof Request !== 'undefined' && input instanceof Request ? input.url : input;
+      if (isBlockedRequest(url)) return Promise.reject(blockedRequestError());
+      return originalFetch.apply(this, arguments);
+    };
+  }
+
+  window.addEventListener('submit', onSubmit, true);
+  window.addEventListener('click', onClick, true);
+  window.addEventListener('focusout', onFocusOut, true);
+  HTMLFormElement.prototype.submit = wrappedSubmit;
+
+  window.LadiPurchaseBlock = {
+    setBlocked: function (blocked) {
+      config.blocked = Boolean(blocked);
+    },
+    isBlocked: function () {
+      return config.blocked;
+    }
+  };
+
+})();
